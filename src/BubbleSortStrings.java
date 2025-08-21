@@ -12,7 +12,7 @@ public class BubbleSortStrings {
         size = message.length; // number of elements to sort
 
         // Display the original array
-        System.out.print("Original array");
+        System.out.print("Original array: ");
         for (int i = 0; i < size; i++)
             System.out.print(" " + message[i]);
         System.out.println();
