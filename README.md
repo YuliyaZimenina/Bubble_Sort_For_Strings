@@ -85,3 +85,8 @@ public class BubbleSortStrings {
 }
 
 ```
+## Screenshots
+
+The result of the program:
+
+<img src="images/The result of the program.png" alt="Result" width="500">
